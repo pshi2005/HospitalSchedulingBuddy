@@ -5,6 +5,7 @@ This is a Facebook Messenger chatbot built for HackNC 2016. Check out our DevPos
 Special thanks to Kameron Kales of Glance Technology (https://github.com/KameronKales/) for providing the slackbot tutorial and giving us feedback. You can find his Facebook Slackbot tutorial here: https://github.com/KameronKales/Duke2016-by-Glance.
 
 FB Messenger Chatbot Activation Steps
+
 	1. Go to Developers.facebook.com. 
 	2. Login using your Facebook username and password.
 	3. Go to "My Apps" in the Top Right Corner.
